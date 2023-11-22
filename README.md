@@ -1,14 +1,17 @@
 # NEWS_SCRAPER
+This project involves scraping news articles from a news website, classifying them based on sections, and storing the data in a CSV file.
+
+
+
 ## How to Run on Colab
 1.Download the NEWS_SCRAPER_CNN.ipynb file (raw)<br />
 2.Open Google Colab and click on File<br />
 3.Click on Open Notebook <br />
 4.Upload the Downloaded notebook and run all cells<br />
 
-# NonStop-io-ml
-# News Scraping and Classification Project
 
-This project involves scraping news articles from a news website, classifying them based on sections, and storing the data in a CSV file. 
+
+ 
 
 
 ## Setup
@@ -45,7 +48,7 @@ This project involves scraping news articles from a news website, classifying th
 
 ## Notes
 
-- Customize the script according to the HTML structure of the news website.
+- Customize the script according to the HTML structure of the news website. (pay special attention to the class attributes of targetted tags)
 
 ## Screenshots of Screen 
 <img width="1321" alt="image" src="">
