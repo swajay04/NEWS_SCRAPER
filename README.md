@@ -51,7 +51,7 @@ This project involves scraping news articles from a news website, classifying th
 - Customize the script according to the HTML structure of the news website. (pay special attention to the class attributes of targetted tags)
 
 ## Screenshots of Screen 
-<img width="1321" alt="image" src="">
+<img width="1321" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123152.png">
 
 <img width="1331" alt="image" src="">
 
