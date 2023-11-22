@@ -53,15 +53,21 @@ This project involves scraping news articles from a news website, classifying th
 ## Screenshots of Screen 
 <img width="1321" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123152.png">
 
-<img width="1331" alt="image" src="">
+<img width="1331" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123211.png">
 
-<img width="1330" alt="image" src="">
+<img width="1330" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123303.png">
 
-<img width="1335" alt="image" src="">
+<img width="1335" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123316.png">
 
-<img width="1336" alt="image" src="">
+<img width="1336" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123327.png">
 
-<img width="246" alt="image" src="">
+<img width="1336" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123340.png">
+
+<img width="1336" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123407.png">
+
+<img width="246" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123423.png">
+
+
 
 
 
