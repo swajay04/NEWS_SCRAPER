@@ -65,7 +65,7 @@ This project involves scraping news articles from a news website, classifying th
 
 <img width="1336" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123407.png">
 
-<img width="246" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/Screenshot%202023-11-22%20123423.png">
+<img width="246" alt="image" src="https://github.com/swajay04/NEWS_SCRAPER/blob/main/images/res.png">
 
 
 
